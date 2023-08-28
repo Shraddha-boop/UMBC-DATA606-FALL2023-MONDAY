@@ -1,4 +1,4 @@
-# Name='SHRADDHA SUNDARESAN'
+                                          # 'SHRADDHA SUNDARESAN'
 Contact='Atlanta, GA|404-XXX-XXXX|wekrklndATgmailDOTcom|linkedin.com/in/ekirkland|github.com/e-kirkland'
 edu="EDUCATION"
 plt.rcParams['font.family'] = 'sans-serif'
