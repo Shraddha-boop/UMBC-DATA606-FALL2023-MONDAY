@@ -10,7 +10,7 @@ West New York, NJ 07093 | +1 (667)-369-8675 | shraddhas2809@gmail.com | [GitHub/
 *May 2024*
 
 ### Bachelor of Engineering in Electrical and Electronics
-**Visvesvaraya Technological University**, Bangalore, India
+**Visvesvaraya Technological University**, Bangalore, India 
 *GPA: 3.2/4.0*
 *July 2017*
 
