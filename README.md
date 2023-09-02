@@ -5,12 +5,12 @@ West New York, NJ 07093 | +1 (667)-369-8675 | shraddhas2809@gmail.com | [GitHub/
 
 ## EDUCATION
 ### Masters in Data Science
-University of Maryland Baltimore County, Baltimore, MD  
+**University of Maryland Baltimore County**, Baltimore, MD  
 GPA: 4.0/4.0  
 May 2024
 
 ### Bachelor of Engineering in Electrical and Electronics
-Visvesvaraya Technological University, Bangalore, India  
+**Visvesvaraya Technological University**, Bangalore, India  
 July 2017
 
 ## TOOLS OF TRADE
@@ -57,3 +57,7 @@ May 2023
 April 2023
 - Employed PySpark on Databricks to dissect H1B visa holders' patterns, guiding job searches based on profiles through powerful data analysis and visualization
 - Identified high-salary states for H1B visa holders, facilitating relocation decisions using appropriate visualization, helping graduate students with job search
+
+## Interests
+In my free time, I enjoy hiking, reading, and contributing to open-source projects. I am passionate about continuous learning and staying up-to-date with the latest trends in software development.
+
