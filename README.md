@@ -5,14 +5,14 @@ West New York, NJ 07093 | +1 (667)-369-8675 | shraddhas2809@gmail.com | [GitHub/
 
 ## EDUCATION
 ### Masters in Data Science
-**University of Maryland Baltimore County**, Baltimore, MD  
+**University of Maryland Baltimore County**, Baltimore, MD*Aug 2022 - May 2024*  
 *GPA: 4.0/4.0* 
-*May 2024*
+
 
 ### Bachelor of Engineering in Electrical and Electronics
-**Visvesvaraya Technological University**, Bangalore, India  
+**Visvesvaraya Technological University**, Bangalore, India*Aug 2013 - July 2017*  
 *GPA: 3.2/4.0*
-*July 2017*
+
 
 ## TOOLS OF TRADE
 - **Programming Languages:** Python, SQL, PySpark, NoSql
