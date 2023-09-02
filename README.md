@@ -1,7 +1,7 @@
 # Shraddha Sundaresan
 West New York, NJ 07093 | +1 (667)-369-8675 | shraddhas2809@gmail.com | [GitHub/Shraddha-boop](https://github.com/Shraddha-boop) | [LinkedIn/chad-sundaresan](https://www.linkedin.com/in/chad-sundaresan)
 
-<img src="https://github.com/Shraddha-boop/UMBC-DATA606-FALL2023-MONDAY/blob/main/Screenshot_20221227_100952.png" alt="Shraddha Sundaresan Headshot" width="150" height="150">
+<img src="https://github.com/Shraddha-boop/UMBC-DATA606-FALL2023-MONDAY/blob/main/headshot_SS.jpg" alt="Shraddha Sundaresan Headshot" width="150" height="150">
 
 ## EDUCATION
 ### Masters in Data Science
